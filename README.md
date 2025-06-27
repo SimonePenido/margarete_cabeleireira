@@ -15,9 +15,8 @@ Este projeto é um site simples, moderno e responsivo para divulgação dos serv
 
 ## 📸 Captura de Tela
 
-> *Substitua este espaço por uma imagem da homepage do site*  
-> Exemplo de uso:  
-> ![screenshot](./screenshot.png)
+![margarete](https://github.com/user-attachments/assets/40886878-458a-491b-b835-b3c59bdaa5ae)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
